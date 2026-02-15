@@ -546,7 +546,9 @@ rect.held, rect.combo.held {
 <g transform="translate(840, 224)" class="key keypos-50">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<text x="0" y="-4" class="key tap">|</text>
+<text x="0" y="-4" class="key tap">
+<tspan x="0" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g transform="translate(896, 224)" class="key keypos-51">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -680,7 +682,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-11">
 <rect rx="6" ry="6" x="266" y="134" width="28" height="26" class="combo"/>
-<text x="280" y="147" class="combo tap">Sft+\</text>
+<text x="280" y="147" class="combo tap">
+<tspan x="280" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="280" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-12">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
@@ -689,7 +693,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-13">
 <rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
-<text x="224" y="88" class="combo tap">Sft+\</text>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="224" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-14">
 <rect rx="6" ry="6" x="798" y="201" width="28" height="26" class="combo"/>
@@ -697,7 +703,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-15">
 <rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
-<text x="868" y="224" class="combo tap">Sft+\</text>
+<text x="868" y="224" class="combo tap">
+<tspan x="868" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="868" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-16">
 <rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
@@ -726,7 +734,7 @@ rect.held, rect.combo.held {
 <g class="combo combopos-21">
 <rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
 <text x="756" y="88" class="combo tap">
-<tspan x="756" dy="-0.6em">INT</tspan><tspan x="756" dy="1.2em">YEN</tspan>
+<tspan x="756" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="756" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g class="combo combopos-22">
@@ -1144,7 +1152,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-11">
 <rect rx="6" ry="6" x="266" y="134" width="28" height="26" class="combo"/>
-<text x="280" y="147" class="combo tap">Sft+\</text>
+<text x="280" y="147" class="combo tap">
+<tspan x="280" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="280" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-12">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
@@ -1153,7 +1163,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-13">
 <rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
-<text x="224" y="88" class="combo tap">Sft+\</text>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="224" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-14">
 <rect rx="6" ry="6" x="798" y="201" width="28" height="26" class="combo"/>
@@ -1161,7 +1173,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-15">
 <rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
-<text x="868" y="224" class="combo tap">Sft+\</text>
+<text x="868" y="224" class="combo tap">
+<tspan x="868" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="868" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-16">
 <rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
@@ -1190,7 +1204,7 @@ rect.held, rect.combo.held {
 <g class="combo combopos-21">
 <rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
 <text x="756" y="88" class="combo tap">
-<tspan x="756" dy="-0.6em">INT</tspan><tspan x="756" dy="1.2em">YEN</tspan>
+<tspan x="756" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="756" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g class="combo combopos-22">
@@ -1331,7 +1345,7 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <text x="0" y="-4" class="key tap">
-<tspan x="0" dy="-0.6em">INT</tspan><tspan x="0" dy="1.2em">YEN</tspan>
+<tspan x="0" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g transform="translate(784, 91)" class="key keypos-23">
@@ -1593,7 +1607,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-11">
 <rect rx="6" ry="6" x="266" y="134" width="28" height="26" class="combo"/>
-<text x="280" y="147" class="combo tap">Sft+\</text>
+<text x="280" y="147" class="combo tap">
+<tspan x="280" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="280" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-12">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
@@ -1602,7 +1618,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-13">
 <rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
-<text x="224" y="88" class="combo tap">Sft+\</text>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="224" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-14">
 <rect rx="6" ry="6" x="798" y="201" width="28" height="26" class="combo"/>
@@ -1610,7 +1628,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-15">
 <rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
-<text x="868" y="224" class="combo tap">Sft+\</text>
+<text x="868" y="224" class="combo tap">
+<tspan x="868" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="868" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-16">
 <rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
@@ -1639,7 +1659,7 @@ rect.held, rect.combo.held {
 <g class="combo combopos-21">
 <rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
 <text x="756" y="88" class="combo tap">
-<tspan x="756" dy="-0.6em">INT</tspan><tspan x="756" dy="1.2em">YEN</tspan>
+<tspan x="756" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="756" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g class="combo combopos-22">
@@ -1780,7 +1800,7 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <text x="0" y="-4" class="key tap">
-<tspan x="0" dy="-1.2em">Sft+</tspan><tspan x="0" dy="1.2em">INT</tspan><tspan x="0" dy="1.2em">YEN</tspan>
+<tspan x="0" dy="-1.2em" style="font-size: 60%">Sft+</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">INTERNATI…</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g transform="translate(784, 91)" class="key keypos-23">
@@ -1929,7 +1949,9 @@ rect.held, rect.combo.held {
 <g transform="translate(840, 224)" class="key keypos-50">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<text x="0" y="-4" class="key tap">Sft+\</text>
+<text x="0" y="-4" class="key tap">
+<tspan x="0" dy="-1.2em" style="font-size: 60%">Sft+</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">INTERNATI…</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g transform="translate(896, 224)" class="key trans keypos-51">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
@@ -2043,7 +2065,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-11">
 <rect rx="6" ry="6" x="266" y="134" width="28" height="26" class="combo"/>
-<text x="280" y="147" class="combo tap">Sft+\</text>
+<text x="280" y="147" class="combo tap">
+<tspan x="280" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="280" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-12">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
@@ -2052,7 +2076,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-13">
 <rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
-<text x="224" y="88" class="combo tap">Sft+\</text>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="224" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-14">
 <rect rx="6" ry="6" x="798" y="201" width="28" height="26" class="combo"/>
@@ -2060,7 +2086,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-15">
 <rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
-<text x="868" y="224" class="combo tap">Sft+\</text>
+<text x="868" y="224" class="combo tap">
+<tspan x="868" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="868" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-16">
 <rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
@@ -2089,7 +2117,7 @@ rect.held, rect.combo.held {
 <g class="combo combopos-21">
 <rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
 <text x="756" y="88" class="combo tap">
-<tspan x="756" dy="-0.6em">INT</tspan><tspan x="756" dy="1.2em">YEN</tspan>
+<tspan x="756" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="756" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g class="combo combopos-22">
@@ -2384,7 +2412,9 @@ rect.held, rect.combo.held {
 <g transform="translate(840, 224)" class="key keypos-50">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<text x="0" y="-4" class="key tap">\</text>
+<text x="0" y="-4" class="key tap">
+<tspan x="0" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="0" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g transform="translate(896, 224)" class="key trans keypos-51">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
@@ -2497,7 +2527,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-11">
 <rect rx="6" ry="6" x="266" y="134" width="28" height="26" class="combo"/>
-<text x="280" y="147" class="combo tap">Sft+\</text>
+<text x="280" y="147" class="combo tap">
+<tspan x="280" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="280" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-12">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
@@ -2506,7 +2538,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-13">
 <rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
-<text x="224" y="88" class="combo tap">Sft+\</text>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="224" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-14">
 <rect rx="6" ry="6" x="798" y="201" width="28" height="26" class="combo"/>
@@ -2514,7 +2548,9 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-15">
 <rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
-<text x="868" y="224" class="combo tap">Sft+\</text>
+<text x="868" y="224" class="combo tap">
+<tspan x="868" dy="-0.6em" style="font-size: 60%">Sft+INTER…</tspan><tspan x="868" dy="1.2em" style="font-size: 60%">1</tspan>
+</text>
 </g>
 <g class="combo combopos-16">
 <rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
@@ -2543,7 +2579,7 @@ rect.held, rect.combo.held {
 <g class="combo combopos-21">
 <rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
 <text x="756" y="88" class="combo tap">
-<tspan x="756" dy="-0.6em">INT</tspan><tspan x="756" dy="1.2em">YEN</tspan>
+<tspan x="756" dy="-0.6em" style="font-size: 60%">INTERNATI…</tspan><tspan x="756" dy="1.2em" style="font-size: 60%">3</tspan>
 </text>
 </g>
 <g class="combo combopos-22">

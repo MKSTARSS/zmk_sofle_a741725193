@@ -51,7 +51,7 @@ layers:
   - F24
   - F24
   - {t: /, s: '?'}
-  - '|'
+  - INTERNATIONAL 1
   - $$mdi:apple-keyboard-control$$
   - $$mdi:volume-off$$
   - F24
@@ -153,7 +153,7 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '-', s: _}
   - {t: '=', s: +}
-  - INT YEN
+  - INTERNATIONAL 3
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -218,7 +218,7 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: Sft+-, s: Sft+_}
   - {t: Sft+=, s: Sft++}
-  - Sft+INT YEN
+  - Sft+INTERNATIONAL 3
   - {t: 'Sft+[', s: 'Sft+{'}
   - {t: 'Sft+]', s: 'Sft+}'}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -246,7 +246,7 @@ layers:
   - F24
   - F24
   - {t: Sft+/, s: 'Sft+?'}
-  - Sft+\
+  - Sft+INTERNATIONAL 1
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - F24
@@ -311,7 +311,7 @@ layers:
   - F24
   - F24
   - {t: /, s: '?'}
-  - \
+  - INTERNATIONAL 1
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - F24
@@ -349,15 +349,15 @@ combos:
 - p: [29, 30]
   k: Sft+9
 - p: [30, 31]
-  k: Sft+\
+  k: Sft+INTERNATIONAL 1
 - p: [15, 16]
   k: {t: '''', s: '"'}
 - p: [16, 17]
-  k: Sft+\
+  k: Sft+INTERNATIONAL 1
 - p: [49, 50]
   k: Sft+/
 - p: [50, 51]
-  k: Sft+\
+  k: Sft+INTERNATIONAL 1
 - p: [35, 36]
   k: {t: ;, s: ':'}
 - p: [36, 37]
@@ -369,7 +369,7 @@ combos:
 - p: [21, 22]
   k: {t: '=', s: +}
 - p: [22, 23]
-  k: INT YEN
+  k: INTERNATIONAL 3
 - p: [23, 24]
   k: {t: '[', s: '{'}
 - p: [24, 25]
