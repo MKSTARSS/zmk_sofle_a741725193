@@ -88,11 +88,11 @@
 
         layer_1 {
             bindings = <
-&trans      &kp F1     &kp F2     &kp F3          &kp F4     &kp F5            &mmv MOVE_UP     &kp F6          &kp F7     &kp F8          &kp F9     &kp F10           &trans
-&trans      &kp GRAVE  &mkp LCLK  &mkp MCLK       &mkp RCLK  &mkp MB4          &mmv MOVE_DOWN   &kp PG_UP       &kp END    &kp UP          &kp HOME   &kp MINUS         &trans
-&trans      &kp TILDE  &trans     &trans          &trans     &mkp MB5          &mmv MOVE_LEFT   &kp PG_DN       &kp LEFT   &kp DOWN        &kp RIGHT  &kp LEFT_BRACKET  &trans
-&trans      &trans     &trans     &trans          &trans     &trans            &mmv MOVE_RIGHT  &trans          &trans     &trans          &trans     &trans            &trans
-&kp C_MUTE  &trans     &trans     &kp LANGUAGE_2  &kp SPACE  &kp LANGUAGE_1    &mkp LCLK        &kp LANGUAGE_2  &kp SPACE  &kp LANGUAGE_1  &trans     &trans
+&trans      &mkp MB4        &msc SCRL_UP    &mmv MOVE_UP    &msc SCRL_DOWN   &mkp MB5           &mmv MOVE_UP     &kp BACKSPACE   &kp PAGE_UP  &kp UP_ARROW    &kp PAGE_DOWN  &kp LS(RIGHT_BRACKET)  &trans
+&trans      &msc SCRL_LEFT  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &msc SCRL_RIGHT    &mmv MOVE_DOWN   &kp ENTER       &kp END      &kp UP          &kp HOME       &kp LS(NON_US_HASH)    &trans
+&trans      &none           &mkp MB1        &mkp MB3        &mkp MB2         &none              &mmv MOVE_LEFT   &kp DELETE      &kp HOME     &kp INSERT      &kp END        &kp PRINTSCREEN        &trans
+&trans      &trans          &trans          &trans          &trans           &trans             &mmv MOVE_RIGHT  &trans          &trans       &trans          &trans         &trans                 &trans
+&kp C_MUTE  &trans          &trans          &kp LANGUAGE_2  &kp SPACE        &kp LANGUAGE_1     &mkp LCLK        &kp LANGUAGE_2  &kp SPACE    &kp LANGUAGE_1  &trans         &trans
             >;
 
             display-name = "L1";
@@ -101,11 +101,11 @@
 
         layer_2 {
             bindings = <
-&kp TILDE  &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &mmv MOVE_UP     &kp F6  &kp F7  &kp F8      &kp F9     &kp F10      &trans
-&trans     &bt BT_CLR    &bt BT_CLR_ALL  &trans        &trans        &trans          &mmv MOVE_DOWN   &trans  &trans  &kp F11     &kp F12    &kp UNDER    &kp PLUS
-&trans     &out OUT_USB  &out OUT_BLE    &trans        &trans        &trans          &mmv MOVE_LEFT   &trans  &trans  &trans      &trans     &kp LBRC     &kp RBRC
-&trans     &trans        &trans          &bootloader   &trans        &trans          &mmv MOVE_RIGHT  &trans  &trans  &sys_reset  &soft_off  &bootloader  &trans
-&trans     &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
+&trans  &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &mmv MOVE_UP     &kp F6  &kp F7  &kp F8   &kp F9   &kp F10    &trans
+&trans  &bt BT_CLR    &bt BT_CLR_ALL  &trans        &trans        &trans          &mmv MOVE_DOWN   &trans  &trans  &kp F11  &kp F12  &kp UNDER  &trans
+&trans  &out OUT_USB  &out OUT_BLE    &trans        &trans        &trans          &mmv MOVE_LEFT   &trans  &trans  &trans   &trans   &kp LBRC   &trans
+&trans  &trans        &trans          &trans        &trans        &trans          &mmv MOVE_RIGHT  &trans  &trans  &trans   &trans   &trans     &trans
+&trans  &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans   &trans   &trans
             >;
 
             display-name = "L2";
