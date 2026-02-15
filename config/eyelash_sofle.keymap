@@ -221,7 +221,7 @@
 &kp TAB           &kp A         &kp S         &kp D             &kp F        &kp G               &kp DOWN_ARROW   &kp H             &kp J        &kp K             &kp L       &kp MINUS            &kp ENTER
 &kp LEFT_SHIFT    &kp Z         &kp X         &kp C             &kp V        &kp B               &kp LEFT_ARROW   &kp N             &kp M        &kp COMMA         &kp PERIOD  &kp SLASH            &kp RSHFT
 &kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT  &kp F24           &kp F24      &kp F24             &kp RIGHT_ARROW  &kp F24           &kp F24      &kp F24           &kp SLASH   &kp INTERNATIONAL_1  &kp RCTRL
-&kp C_MUTE        &kp F24       &kp F24       &lt 4 LANGUAGE_2  &lt 3 SPACE  &lt 2 LANGUAGE_1    &kp ENTER        &lt 1 LANGUAGE_2  &lt 3 SPACE  &lt 2 LANGUAGE_1  &kp F24     &kp F24
+&kp C_MUTE        &kp F24       &kp F24       &lt 4 LANGUAGE_2  &lt 3 SPACE  &lt 2 LANGUAGE_1    &kp A            &lt 1 LANGUAGE_2  &lt 3 SPACE  &lt 2 LANGUAGE_1  &kp F24     &kp F24
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
