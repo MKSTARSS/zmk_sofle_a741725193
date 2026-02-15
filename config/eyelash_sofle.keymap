@@ -90,8 +90,8 @@
 &trans      &mkp MB4        &msc SCRL_UP    &mmv MOVE_UP    &msc SCRL_DOWN   &mkp MB5           &mmv MOVE_UP     &kp BACKSPACE   &kp PAGE_UP  &kp UP_ARROW    &kp PAGE_DOWN  &kp LS(RIGHT_BRACKET)  &trans
 &trans      &msc SCRL_LEFT  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &msc SCRL_RIGHT    &mmv MOVE_DOWN   &kp ENTER       &kp END      &kp UP          &kp HOME       &kp LS(NON_US_HASH)    &trans
 &trans      &none           &mkp MB1        &mkp MB3        &mkp MB2         &none              &mmv MOVE_LEFT   &kp DELETE      &kp HOME     &kp INSERT      &kp END        &kp PRINTSCREEN        &trans
-&trans      &trans          &trans          &trans          &trans           &trans             &mmv MOVE_RIGHT  &trans          &trans       &trans          &trans         &trans                 &trans
-&kp C_MUTE  &trans          &trans          &kp LANGUAGE_2  &kp SPACE        &kp LANGUAGE_1     &mkp LCLK        &kp LANGUAGE_2  &kp SPACE    &kp LANGUAGE_1  &trans         &trans
+&trans      &trans          &trans          &kp F24         &kp F24          &kp F24            &mmv MOVE_RIGHT  &kp F24         &kp F24      &kp F24         &trans         &trans                 &trans
+&kp C_MUTE  &kp F24         &kp F24         &kp LANGUAGE_2  &kp SPACE        &kp LANGUAGE_1     &mkp LCLK        &kp LANGUAGE_2  &kp SPACE    &kp LANGUAGE_1  &kp F24        &kp F24
             >;
 
             display-name = "L1";
@@ -103,8 +103,8 @@
 &trans  &kp NUMBER_1    &kp NUMBER_2    &kp NUMBER_3    &kp NUMBER_4     &kp N5              &mmv MOVE_UP     &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8   &kp NUMBER_9      &kp NUMBER_0       &trans
 &trans  &kp TAB         &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN    &kp ESCAPE          &mmv MOVE_DOWN   &kp MINUS     &kp EQUAL     &kp INT_YEN    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
 &trans  &kp LEFT_SHIFT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LEFT_CONTROL    &mmv MOVE_LEFT   &kp COMMA     &kp PERIOD    &kp SEMICOLON  &kp SINGLE_QUOTE  &kp NON_US_HASH    &trans
-&trans  &trans          &trans          &trans          &trans           &trans              &mmv MOVE_RIGHT  &trans        &trans        &trans         &trans            &trans             &trans
-&trans  &trans          &trans          &trans          &trans           &trans              &mkp LCLK        &trans        &trans        &trans         &trans            &trans
+&trans  &trans          &trans          &kp F24         &kp F24          &kp F24             &mmv MOVE_RIGHT  &kp F24       &kp F24       &kp F24        &trans            &trans             &trans
+&trans  &kp F24         &kp F24         &trans          &trans           &trans              &mkp LCLK        &trans        &trans        &trans         &kp F24           &kp F24
             >;
 
             display-name = "L2";
