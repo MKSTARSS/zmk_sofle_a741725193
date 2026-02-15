@@ -47,6 +47,11 @@
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
         };
+
+        combo0 {
+            bindings = <&kp F5>;
+            key-positions = <1 2>;
+        };
     };
 
     macros {
@@ -135,5 +140,3 @@
         };
     };
 };
-
-
