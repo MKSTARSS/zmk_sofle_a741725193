@@ -57,11 +57,11 @@ layers:
   - F24
   - F24
   - {t: LANGUAGE 2, h: L4}
-  - {t: '$$mdi:keyboard-space$$', h: L0}
+  - {t: '$$mdi:keyboard-space$$', h: L3}
   - {t: LANGUAGE 1, h: L2}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: LANGUAGE 2, h: L1}
-  - {t: '$$mdi:keyboard-space$$', h: L0}
+  - {t: '$$mdi:keyboard-space$$', h: L3}
   - {t: LANGUAGE 1, h: L2}
   - F24
   - F24
@@ -252,11 +252,11 @@ layers:
   - F24
   - F24
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - '&mkp MB1'
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - F24
   - F24
