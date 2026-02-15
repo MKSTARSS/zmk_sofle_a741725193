@@ -328,3 +328,5 @@ layers:
 combos:
 - p: [14, 28, 40]
   k: '&soft_off'
+- p: [1, 2]
+  k: F5
