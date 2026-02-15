@@ -59,7 +59,7 @@ layers:
   - {t: LANGUAGE 2, h: L4}
   - {t: '$$mdi:keyboard-space$$', h: L3}
   - {t: LANGUAGE 1, h: L2}
-  - A
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: LANGUAGE 2, h: L1}
   - {t: '$$mdi:keyboard-space$$', h: L3}
   - {t: LANGUAGE 1, h: L2}
